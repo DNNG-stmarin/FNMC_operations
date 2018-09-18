@@ -8,11 +8,11 @@ The fast neutron multiplicity counter is an organic-scintillator--based detector
 
 List of scripts included:
 
--> calibOTF.py
--> loadPSD.py
--> MakeCCs.py
--> processData.py
--> pulsePlotter_v1.py
+- calibOTF.py
+- loadPSD.py
+- MakeCCs.py
+- processData.py
+- pulsePlotter_v1.py
 
 A library developed by Matthew J. Marcath and Marc Ruch called "pywaves" is also included. This includes all the functionality required for the above scripts to run smoothly. 
 
